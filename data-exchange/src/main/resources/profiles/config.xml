@@ -1,0 +1,14 @@
+<config>
+    <source name="user_click_sup_d">
+        <uid>0</uid>
+        <dealId>1</dealId>
+        <date>2</date>
+    </source>
+    <source name="mobile_exposure">
+        <uid>2</uid>
+        <deviceId>1</deviceId>
+        <dealId>3</dealId>
+        <position>4</position>
+        <date>0</date>
+    </source>
+</config>
