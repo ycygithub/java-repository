@@ -2,9 +2,6 @@ package forkjoin;
 
 import java.util.concurrent.RecursiveTask;
 
-/**
- * Created by chongyu on 8/14/14.
- */
 public class Calculator extends RecursiveTask<Integer> {
 
     private static final int THRESHOLD = 100;

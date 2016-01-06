@@ -1,8 +1,5 @@
 package design.decorator;
 
-/**
- * Created by chongyu on 8/14/14.
- */
 public class PacketHTTPHeaderCreator extends PacketDecorator{
 
     public PacketHTTPHeaderCreator(IPacketCreator creator){

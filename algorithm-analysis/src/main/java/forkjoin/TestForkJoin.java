@@ -10,9 +10,6 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Created by chongyu on 8/14/14.
- */
 public class TestForkJoin {
 
     @Test

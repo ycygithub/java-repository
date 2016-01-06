@@ -3,9 +3,6 @@ package forkjoin;
 import java.util.Arrays;
 import java.util.concurrent.RecursiveAction;
 
-/**
- * Created by chongyu on 8/14/14.
- */
 public class SortTask extends RecursiveAction {
     final long[] array;
     final int start;
